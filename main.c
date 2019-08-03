@@ -1,12 +1,12 @@
 #include<stadio.h>
 #include<strings.h>
 
-int main(int argc, char *argv[], char *envp[])
+int main(int argc, char *envp[])
 {
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("Hello Holberto\n"), i, argv[i];
+    printf("Hello Holberto\n");
   }
     while (envp) {
       printf("Hello Holberto\n", *envp++)

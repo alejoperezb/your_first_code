@@ -1,4 +1,3 @@
-#include <stdio.h>
 int main()
 {
   int i;
@@ -8,25 +7,29 @@ int main()
   }
   return 0;
 }
-
-#include <stdio.h>
 int main()
 {
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("I'm Alejandro Perez Barona");
+    printf("Hello Holberton");
   }
   return 0;
 }
-
-#include <stdio.h>
 int main()
 {
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("The next software engineer");
+    printf("Hello Holberton");
+  }
+  return 0;
+}int main()
+{
+  int i;
+  for (i = 0; i < 10; i++)
+  {
+    printf("Hello Holberton");
   }
   return 0;
 }
